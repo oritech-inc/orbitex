@@ -1,8 +1,8 @@
-# Orbitex AI Question Assistant
+# Orbitex AI Assistant
 
 ![Orbitex Logo](logo.png)
 
-Welcome to Orbitex AI Question Assistant! 🌌
+Welcome to Orbitex AI Assistant! 🌌
 
 ## Overview
 
